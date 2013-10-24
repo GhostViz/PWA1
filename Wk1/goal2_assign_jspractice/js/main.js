@@ -60,7 +60,10 @@
     //--------------------------------------------------------
     console.log("2. concat first and last name");
 
-        //PUT FUNCTION HERE
+    var fullName = function(firstName, lastName)
+    {
+        return firstName + " " + lastName;
+    }
 
     console.log(fullName('James', 'Bond'));
 
