@@ -82,7 +82,10 @@
     //--------------------------------------------------------
     console.log("4. sentence char count");
 
-        //PUT FUNCTION HERE
+    var charCount = function(string)
+    {
+        return string.length;
+    }
 
     console.log(charCount(ipsum));
 
