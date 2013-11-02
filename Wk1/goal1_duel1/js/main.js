@@ -1,6 +1,6 @@
 /*
 Name: Freddie Nichols
-Date: 10/19/2013
+Date: 11/02/2013
 Assignment: Goal1: Assignment: Duel1
 */
 

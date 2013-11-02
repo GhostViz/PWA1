@@ -1,3 +1,8 @@
+/*
+Name: Freddie Nichols
+Date: 11/2/2013
+Assignment: Goal2: Assignment: JS Practice
+*/
 // self-executing function
 (function(){
 

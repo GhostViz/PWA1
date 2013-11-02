@@ -1,7 +1,7 @@
 /*
 Name: Freddie Nichols
-Date: 11/2/2013
-Assignment: Goal1: Assignment: Duel1
+Date: 10/24/2013
+Assignment: Goal4: Assignment: Duel3
 */
 
 // self-executing function
@@ -9,11 +9,11 @@ Assignment: Goal1: Assignment: Duel1
 
 console.log("FIGHT!");
 
-// Player 1 Array
-var fighter1 = ["Spiderman", 20, 100];
+// Player 1 Object
+var fighter1 = { name:"Spiderman", maxDamage: 20, health: 100 };
 
-// Player 2 Array
-var fighter2 = ["Batman", 20, 100];
+// Player 2 Object
+var fighter2 = { name:"Batman", maxDamage: 20, health: 100 };
 
 // round number
 var round = 0;
